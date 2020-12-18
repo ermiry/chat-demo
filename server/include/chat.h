@@ -7,7 +7,7 @@
 #pragma region version
 
 #define CHAT_VERSION				"0.1"
-#define CHAT_VERSION_DATE			"21/11/2020"
+#define CHAT_VERSION_DATE			"17/12/2020"
 
 extern void chat_version_print (void);
 
